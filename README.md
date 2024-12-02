@@ -2,6 +2,8 @@
 
 A React-based web application for generating and analyzing process mining event logs for a pizza restaurant. This tool helps in understanding and optimizing restaurant operations through data-driven insights.
 
+![image](https://github.com/user-attachments/assets/ea07acc0-9068-498a-944d-29f26538e956)
+
 ## Features
 
 - 🍕 Customizable menu items with dynamic pricing and preparation times
