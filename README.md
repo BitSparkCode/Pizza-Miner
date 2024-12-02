@@ -57,10 +57,6 @@ npm run dev
 - Vite
 - Lucide Icons
 
-## License
-
-MIT
-
 ## Author
 
 Created by Moritz Maier for:
